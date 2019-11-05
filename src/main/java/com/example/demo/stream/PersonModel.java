@@ -1,4 +1,4 @@
-package com.example.demo.Stream;/**
+package com.example.demo.stream;/**
  * Created by 170251 on 2019/10/24.
  */
 
@@ -8,7 +8,7 @@ package com.example.demo.Stream;/**
  * @author: Mr.Gao
  * @create: 2019-10-24 17:59
  **/
-public  abstract class PersonModel implements Comparable{
+public  class PersonModel {
     String name;
     Integer age;
     String sex;

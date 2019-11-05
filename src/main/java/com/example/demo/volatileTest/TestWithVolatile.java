@@ -1,4 +1,4 @@
-package com.example.demo.Volatile;
+package com.example.demo.volatileTest;
 
 /**
  * Created by 170251 on 2018/5/11.

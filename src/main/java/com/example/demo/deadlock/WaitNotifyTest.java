@@ -1,4 +1,4 @@
-package com.example.demo.Deadlock;
+package com.example.demo.deadlock;
 
 import java.util.ArrayList;
 import java.util.List;

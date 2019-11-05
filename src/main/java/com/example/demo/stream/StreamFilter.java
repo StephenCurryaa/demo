@@ -1,4 +1,4 @@
-package com.example.demo.Stream;/**
+package com.example.demo.stream;/**
  * Created by 170251 on 2019/10/28.
  */
 

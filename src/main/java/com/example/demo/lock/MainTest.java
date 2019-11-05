@@ -1,4 +1,4 @@
-package com.example.demo.Lock;
+package com.example.demo.lock;
 
 /**
  * Created by 170251 on 2018/5/11.

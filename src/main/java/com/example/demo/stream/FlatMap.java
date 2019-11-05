@@ -1,4 +1,4 @@
-package com.example.demo.Stream;/**
+package com.example.demo.stream;/**
  * Created by 170251 on 2019/10/28.
  */
 
@@ -20,8 +20,8 @@ import java.util.stream.Stream;
   Map一对一
   Flatmap一对多
   map和flatMap的方法声明是不一样的
-  <r> Stream<r> map(Function mapper);
-  <r> Stream<r> flatMap(Function> mapper);
+  <r> stream<r> map(Function mapper);
+  <r> stream<r> flatMap(Function> mapper);
   map和flatMap的区别：我个人认为，flatMap的可以处理更深层次的数据，入参为多个list，结果可以返回为一个list，而map是一对一的，入参是多个list，结果返回必须是多个list。通俗的说，如果入参都是对象，那么flatMap可以操作对象里面的对象，而map只能操作第一层。
  * @author: Mr.Gao
  * @create: 2019-10-28 11:31
